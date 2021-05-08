@@ -1,8 +1,8 @@
-<h1 align="center">Master-Bomber</h1>
+<h1 align="center">Super-Bomber</h1>
 <p align="center">An open-source SMS/call/Mail bomber for Linux And Termux.</p><br>
 
 <p align="center">
-  <img src="https://github.com/navin-hariharan/Master-Bomber/blob/master/MasterBomber.png"><br>
+  <img src="https://github.com/white-devil0786/Super-Bomber/blob/main/White-Devil.png"><br>
 </p>
 
 ## Note:
@@ -17,7 +17,7 @@
 - **I am not responsible for the misuse of Master-Bomber.**
 <br>
 
-## UPDATE (2020.1):
+## UPDATE (2021.5):
 
 - Removed features that are no more working 😞
 - Improved persistence 
@@ -38,16 +38,16 @@
 
 ## Usage:
 
-Run these commands to run Master-Bomber
+Run these commands to run Super-Bomber
 
 ### > For Termux:
 ```
-pkg install git python;cd;if [ -d /scripts ]; then echo 'Exists'; else mkdir scripts;cd scripts;mkdir Social-Attacks; fi;cd Social-Attacks;git clone https://github.com/navin-hariharan/Master-Bomber;cd Master-Bomber;chmod +x *;./Master-Bomber.sh
+pkg install git python;cd;if [ -d /scripts ]; then echo 'Exists'; else mkdir scripts;cd scripts;mkdir Social-Attacks; fi;cd Social-Attacks;git clone https://github.com/white-devil0786/Super-Bomber.git;cd Super-Bomber;chmod +x *;./White-Devil.sh
 ```
 
 ### > For Linux:
 ```
-sudo apt install git python;cd;if [ -d /scripts ]; then echo 'Exists'; else mkdir scripts;cd scripts;mkdir Social-Attacks; fi;cd Social-Attacks;git clone https://github.com/navin-hariharan/Master-Bomber;cd Master-Bomber;chmod +x Master-Bomber.sh;./Master-Bomber.sh
+sudo apt install git python;cd;if [ -d /scripts ]; then echo 'Exists'; else mkdir scripts;cd scripts;mkdir Social-Attacks; fi;cd Social-Attacks;git clone https://github.com/white-devil0786/Super-Bomber.git;cd Super-Bomber;chmod +x *;./White-Devil.sh
 ```
 
 # CONTACT ME:
@@ -55,5 +55,5 @@ sudo apt install git python;cd;if [ -d /scripts ]; then echo 'Exists'; else mkdi
 Feel Free To Open An Issue...
 
 ```
-Instagram: navin_hariharan
+Instagram: White-Devil
 ```
