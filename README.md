@@ -14,7 +14,7 @@
 - Make sure you are using Python v3.
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **I am not responsible for the misuse of Master-Bomber.**
+- **I am not responsible for the misuse of Super-Bomber.**
 <br>
 
 ## UPDATE (2021.5):
