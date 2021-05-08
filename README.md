@@ -2,7 +2,7 @@
 <p align="center">An open-source SMS/call/Mail bomber for Linux And Termux.</p><br>
 
 <p align="center">
-  <img src="https://github.com/white-devil0786/Super-Bomber/blob/main/White-Devil.png"><br>
+  <img src="https://github.com/white-devil0786/Super-Bomber/blob/main/white-devil.png"><br>
 </p>
 
 ## Note:
